@@ -1,0 +1,471 @@
+.attribution { font-size: 11px; text-align: center; position: relative; top: -380px;  height: 3rem;}
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    color: hsl(236, 13%, 42%);
+}
+
+.menu{
+    display: none;
+}
+.close-menu{
+    display: none;
+}
+.logo{
+    width: 60px;
+}
+.container{
+   padding: 3rem 5rem 0rem;
+}
+.achor{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    top: -2.6rem;
+    right: 7rem;
+ 
+}
+.achor a{
+    padding: 8px;
+    color: hsl(236, 13%, 42%);
+    text-decoration: none;
+}
+
+
+.achor a:hover{
+    color: red;
+    
+}
+.web-img{
+    width: 46rem;
+    height: 18rem;
+}
+.head{
+    font-family: 'Inter', sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    width: 16rem;
+    color: hsl(240, 100%, 5%);
+}
+.para{
+    width: 21rem;
+    height: 6rem;
+    margin-top: 1rem;
+}
+.fonts{
+    display: flex;
+    flex-direction: row;
+    height: 12rem;
+    width: 45rem;
+    position: relative;
+}
+.btn{
+    position: relative;
+    left: 16rem;
+    top: -3rem;
+    height: 3rem;
+    width: 10rem;
+    background:  hsl(5, 85%, 63%);
+    border: none;
+    color: white;
+}
+.btn:hover{
+    background-color: hsl(240, 100%, 5%);
+}
+.new{
+    height: 0px;
+}
+.sub{
+    height: 28.3rem;
+    position: relative;
+    width: 16.5rem;
+    background-color: hsl(240, 100%, 5%);
+    left: 47.4rem;
+    top: -532px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.n-1{
+    position: absolute;
+    display: flex;
+    color: hsl(35, 77%, 62%);
+    top: 1rem;
+}
+.n-2{
+    position: absolute;
+    display: flex;
+    color: hsl(36, 100%, 99%);
+    font-size: 15px;
+    top: 5rem;
+
+
+}
+.n-3{
+    position: absolute;
+    display: flex;
+    color: hsl(236, 13%, 42%);
+    font-size: 14px;
+    top: 7rem;
+}
+.n-4{
+    position: absolute;
+    display: flex;
+    color: hsl(36, 100%, 99%);
+    font-size: 15px;
+    top: 12rem;
+
+}
+.n-5{
+    position: absolute;
+    display: flex;
+    color: hsl(236, 13%, 42%);
+    font-size: 14px;
+    top: 14rem;
+
+
+}
+.n-6{
+    position: absolute;
+    display: flex;
+    color: hsl(36, 100%, 99%);
+    font-size: 15px;
+    top: 20rem;
+
+}
+.n-7{
+    position: absolute;
+    display: flex;
+    color: hsl(236, 13%, 42%);
+    font-size: 14px;
+    top: 22rem;
+
+
+}
+.n-4:hover, .n-2:hover, .n-6:hover{
+    color: hsl(35, 77%, 62%);
+}
+
+.hr{
+    position: absolute;
+    width: 16rem;
+    top: 11rem;
+    border: 1px solid;
+    
+  
+}
+.hr2{
+    position: absolute;
+    width: 16rem;
+    top: 18rem;
+    border: 1px solid;
+    
+}
+
+.retro{
+    position: absolute;
+    top: 28rem;
+    width: 5rem;
+}
+.table{
+    position: relative;
+    top:-56rem;
+}
+.layout{
+    position: relative;
+    top:26rem;
+    left: 7rem;
+    height: 6rem;
+}
+.h-1{
+    position: relative;
+    top: 10px;
+    
+}
+.h-2{
+    font-size: 15px;
+    position: relative;
+    top: 1px;
+    color:  hsl(240, 100%, 5%);
+}
+.h-2:hover, .h-4:hover, .h-6:hover{
+    color: hsl(35, 77%, 62%);
+}
+.para-2{
+    position: relative;
+    top: -8px;
+    font-size: 13px;
+    width: 13rem;
+
+}
+.table{
+    display: flex ;
+    flex-direction: row;
+    width: 10rem;
+}
+
+.laptop{
+    position: relative;
+    top: 28rem;
+    left: 10rem;
+    width: 5rem;
+}
+
+.layout2{
+    position: relative;
+    top:26rem;
+    left: 12rem;
+    height: 6rem;
+}
+.h-3{
+    position: relative;
+    top: 10px;
+    
+}
+.h-4{
+    font-size: 15px;
+    position: relative;
+    top: 1px;
+    color:  hsl(240, 100%, 5%);
+}
+.para-3{
+    position: relative;
+    top: -8px;
+    font-size: 13px;
+    width: 13rem;
+
+}
+.layout3{
+    position: relative;
+    top:26rem;
+    left: 18rem;
+    height: 6rem;
+}
+.h-5{
+    position: relative;
+    top: 10px;
+    
+}
+.h-6{
+    font-size: 15px;
+    position: relative;
+    top: 1px;
+    color:  hsl(240, 100%, 5%);
+}
+.para-7{
+    position: relative;
+    top: -8px;
+    font-size: 13px;
+    width: 13rem;
+
+}
+.game{
+    position: relative;
+    top: 28rem;
+    left: 16rem;
+    width: 5rem;
+}
+.mob-img{
+    display: none;
+}
+
+
+
+/* mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
+/* mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
+@media all and (max-width:375px) {
+body{
+    font-size: 15px;
+}
+.container{
+    padding: 0 1rem 7rem;
+    height: 0rem;
+    width: 0rem;
+
+}
+.logo{
+    padding: 3rem 0 1rem;
+}
+
+.achor{
+    
+   
+    position: absolute;
+    background-color: white;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    width: 12rem;
+    height: 40rem;;
+    top: -1rem;
+    left: 9.7rem;
+    padding: 10px;
+    color: var(--Medium-Gray);
+    transition: all 150ms ease-in-out;
+  
+   
+}
+#myObject{
+    display: none;
+}
+.span{
+    top: 7rem;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    z-index: 4;
+   
+}
+
+.span a{
+    color: #000;
+    font-weight: 400;
+}
+.sub{
+    top: 6rem;
+    left: 0.0rem;
+    width: 18rem;
+}
+.web-img{
+    display: none;
+    
+}
+
+.table{
+    display: flex;
+    flex-direction: column;
+    height: 0rem;
+    left: -6rem;
+    top: 10rem;
+}
+.mob-img{
+    display: flex;
+    position: relative;
+    width: 21rem;
+}
+
+.para{
+    position: relative;
+    top: -2rem;
+}
+.para-7{
+    left: -10rem;
+}
+.btn{
+    top: 5rem;
+    left: -0.0rem;
+    
+}
+.fonts{
+    width: 4rem;
+    flex-direction: column;
+}
+.head{
+    font-weight: 800;
+    font-size: 2.5rem;
+    font-family: 'Inter', sans-serif;
+    width: 20rem;
+    height: 10rem;
+
+}
+.retro{
+    top: -2rem;
+    left: 6rem;
+    width: 6rem;
+    height: 8rem;
+}
+.h-1{
+    font-size: 2.5rem;
+    top: -1.5rem;
+}
+.h-2{
+    font-size: 20px;
+    width: 12rem;
+    top: -2.9rem;
+
+}
+.para-2{
+    font-size: 15px;
+    width: 12rem;
+    top: -4rem;
+}
+.layout{
+    top: -2.5rem;
+    left: 13rem;
+}
+
+.laptop{
+    top: 3rem;
+    left: 6rem;
+    width: 6rem;
+    height: 10rem;
+
+}
+.h-3{
+    font-size: 2.5rem;
+    top: -1.5rem;
+}
+.h-4{
+    font-size: 20px;
+    width: 12rem;
+    top: -2.9rem;
+
+}
+.para-3 {
+    font-size: 15px;
+    width: 12rem;
+    top: -4rem;
+}
+.layout2{
+    top: -5.5rem;
+    left: 13rem;
+}
+.game{
+    top: -0.1rem;
+    left: 6rem;
+    width: 6rem;
+    height: 10rem;
+
+}
+.h-5{
+    font-size: 2.5rem;
+    top: -1.5rem;
+}
+.h-6{
+    font-size: 20px;
+    width: 12rem;
+    top: -2.9rem;
+
+}
+.para-7 {
+    font-size: 12px;
+    width: 14rem;
+    top: -3.6rem;
+    left: 0.1rem;
+}
+.layout3{
+    left: 13rem;
+    top: -8.6rem;
+}
+.attribution{
+    top: 40rem;
+    width: 21rem;
+}
+.menu{
+    display: flex;
+    position: absolute;
+    left: 19rem;
+    height: 1.5rem;
+    top: 4rem;
+    z-index: 2;
+
+}
+.close-menu{
+   
+    position: absolute;
+    z-index: 2;
+    left: 19.5rem;
+    top: 3.5rem;
+}
+  }
